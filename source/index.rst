@@ -29,26 +29,36 @@ was initially called the DRMC).
 .. _Archivematica: https://www.archivematica.org/
 .. _MoMA: http://www.moma.org/
 
+.. _user-manual:
+
 User manual
 ===========
 
-User manual blurb.
+User guide to creating, editing, importing, and managing content content in
+Binder via the user interface.
+
+.. _user-overview:
 
 Overview
 --------
 
-User manual overview blurb.
+Find out what Binder is, what it can do, how it's being used, and where we hope
+to see the project evolve.
 
 * :ref:`What is Binder? <intro>`
 * :ref:`Technical overview <tech-overview>`
 * :ref:`Project goals: Binder's long-term vision <project-goals>`
 * :ref:`binder-moma`
 
+.. _admin-manual:
 
 Administration manual
 =====================
 
-Admin manual blurb.
+Instructions for installing, upgrading, maintaining, and more; includes
+administering the app via the command-line interface.
+
+.. _admin-api:
 
 API reference
 -------------

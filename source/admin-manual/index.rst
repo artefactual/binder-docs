@@ -1,4 +1,4 @@
-.. _admin-manual:
+.. _admin-manual-index:
 
 Administration manual
 =====================

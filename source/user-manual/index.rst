@@ -1,4 +1,4 @@
-.. _user-manual:
+.. _user-manual-index:
 
 User manual
 ===========
