@@ -42,6 +42,7 @@ User manual overview blurb.
 * :ref:`What is Binder? <intro>`
 * :ref:`Technical overview <tech-overview>`
 * :ref:`Project goals: Binder's long-term vision <project-goals>`
+* :ref:`binder-moma`
 
 
 Administration manual
