@@ -12,17 +12,22 @@ Binder documentation
    /admin-manual/index
 
 Binder is an open source digital repository designed to meet the needs and
-complex digital preservation requirements of museum collections. Binder was
-created by Artefactual Systems and the Museum of Modern Art.
+complex digital preservation requirements of cultural heritage institutions.
+Binder was created by `Artefactual Systems <http://www.artefactual.com/>`__ and
+the `Museum of Modern Art <http://www.moma.org/>`__.
 
 Binder aims to facilitate digital collections care, management, and
-preservation for time-based media and born-digital artworks and is built
-from integrating functionality of the Archivematica and AtoM projects.
+preservation for time-based media and born-digital works, and is built
+from integrating functionality of the Archivematica_ and AtoM_ projects.
 
-A presentation on Binder's functionality, given at AMIA 2014, can be viewd
-online_ (note that Binder was initially called the DRMC).
+A presentation on Binder's functionality, given at AMIA 2014, can be viewed
+`online <https://www.youtube.com/watch?v=HPebm5nh83o>`__ (note that Binder
+was initially called the DRMC).
 
-.. _online: https://www.youtube.com/watch?v=HPebm5nh83o
+.. _Artefactual: http://www.artefactual.com/
+.. _AtoM: https://www.accesstomemory.org/
+.. _Archivematica: https://www.archivematica.org/
+.. _MoMA: http://www.moma.org/
 
 User manual
 ===========
@@ -34,7 +39,10 @@ Overview
 
 User manual overview blurb.
 
-* :doc:`Using Binder <user-manual/overview/intro>`
+* :ref:`What is Binder? <intro>`
+* :ref:`Technical overview <tech-overview>`
+* :ref:`Project goals: Binder's long-term vision <project-goals>`
+
 
 Administration manual
 =====================
