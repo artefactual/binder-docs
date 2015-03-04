@@ -9,16 +9,18 @@ What is Binder?
 .. _Archivematica: https://www.archivematica.org/
 .. _MoMA: http://www.moma.org/
 
-Binder is an open-source, web-based digital repository management application.
-It is designed to support the care, management, and preservation of complex
-entities such as time-based media and born-digital works. Binder provides
-users with a central interface in which to view and manage relationships
-between the components of a work, related preservation objects (AIPs), the
-digital objects and technical metadata related AIPs contain, as well as the
-supporting technologies required to preserve and display the works over the
-long-term. The goal of Binder is to gather together all the information
-required to make long-term preservation and assessment decisions in a single
-user-friendly interface.
+Binder is an open-source web app for managing digital repositories. Binder is
+particularly adept at supporting the care, management, and preservation of
+complex digital collections such as time-based media and born-digital
+artworks. The app provides users with a central interface through  which they
+can  access, view and manage the rich technical metadata contained in the
+Archival Information Packages (AIPs) in their repository, as well as managing
+and describing the relationships between the components of a collections
+object, and its constituent digital objects, as well as the various external
+dependencies required to preserve and display the collection over the long-
+term. Binder gathers together all of this information required to make long-
+term preservation and assessment decisions in a single user-friendly
+interface.
 
 Binder integrates and enhances functionality from two existing open source
 preservation and access applications:
@@ -30,8 +32,23 @@ preservation and access applications:
 
 Binder has also been integrated with The Museum System
 (`TMS <http://www.gallerysystems.com/tms>`__), and can pull in
-artwork metadata via the TMS API developed by Steve Moore and the Museum of
+artwork metadata via the TMS API developed by Steve Moore at the Museum of
 Modern Art (https://github.com/smoore4moma/TmsApi).
+
+.. _why-binder:
+
+Why Binder?
+===========
+
+**n. Something that produces or promotes cohesion in loosely assembled substances**
+
+* n. A chemical that causes two substances to bond into one
+* n. A cover or holder for unbound papers, pages, etc
+* n. A plant whose growth habits prevent erosion
+* n. A software mechanism that performs binding (e.g. data binding)
+* n. One who binds.
+
+.. _do-with-binder:
 
 What can you do with Binder?
 ============================
@@ -63,15 +80,10 @@ policies supporting long-term preservation and access.
   an AIP side by side in a graphical user interface.
 * Generate and save reports on ingest, fixity, usage, and more.
 
-Why Binder?
-===========
+.. SEEALSO::
 
-**n. Something that produces or promotes cohesion in loosely assembled substances**
+   Learn more about how the Museum of Modern Art (MoMA_) is using Binder:
 
-* n. A chemical that causes two substances to bond into one
-* n. A cover or holder for unbound papers, pages, etc
-* n. A plant whose growth habits prevent erosion
-* n. A software mechanism that performs binding (e.g. data binding)
-* n. One who binds.
+   * :ref:`binder-moma`
 
 :ref:`Back to top <intro>`
