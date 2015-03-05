@@ -1,3 +1,5 @@
+.. _api-recover-aip:
+
 Recover AIP
 ===========
 
@@ -31,3 +33,5 @@ have to approve the recover request.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

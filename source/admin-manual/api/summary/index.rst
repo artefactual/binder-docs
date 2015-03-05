@@ -1,3 +1,5 @@
+.. _api-summary:
+
 Summary REST API
 ================
 
@@ -12,3 +14,5 @@ The summary REST API endpoints provide statistical data.
    storagebycodec
    departmentartworkcount
    mediafilesizebycollectionyear
+
+:ref:`Back to API documentation index <api>`

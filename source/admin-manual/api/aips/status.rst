@@ -1,3 +1,5 @@
+.. _api-aip-ss-status:
+
 AIPs Storage Service Status
 ===========================
 
@@ -31,3 +33,5 @@ for AIPs that have a specified storage service status.
 
    :query status: storage service status
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

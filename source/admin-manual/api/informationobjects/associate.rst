@@ -1,3 +1,5 @@
+.. _api-info-object-associate:
+
 Information Object Associate
 ============================
 
@@ -30,3 +32,5 @@ of associations between information objects.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

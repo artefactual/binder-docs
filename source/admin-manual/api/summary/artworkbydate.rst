@@ -1,3 +1,5 @@
+.. _api-artwork-by-date:
+
 Artwork by Date
 ===============
 
@@ -36,3 +38,5 @@ also provided by collection date.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

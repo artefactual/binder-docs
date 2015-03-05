@@ -1,3 +1,5 @@
+.. _api-storage-by-media-cat:
+
 Storage by Media Category
 =========================
 
@@ -40,3 +42,5 @@ is used per MIME type.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

@@ -1,3 +1,5 @@
+.. _api-storage-by-codec:
+
 Storage by Codec
 ================
 
@@ -54,3 +56,5 @@ storage each codec is using.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

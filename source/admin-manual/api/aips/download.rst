@@ -1,3 +1,5 @@
+.. _api-aip-download-proxy:
+
 AIP Download Proxy
 ==================
 
@@ -19,3 +21,5 @@ Files are proxied from the storage service.
 
    :query file_id: ID of file to download (optional)
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

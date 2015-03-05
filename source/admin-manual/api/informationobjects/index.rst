@@ -1,3 +1,5 @@
+.. _api-info-objects:
+
 Information Objects REST API
 ============================
 
@@ -20,3 +22,5 @@ to be accessed and modified.
    aips
    associate
    associations
+
+:ref:`Back to API documentation index <api>`

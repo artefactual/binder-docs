@@ -1,3 +1,5 @@
+.. _api-info-object-move:
+
 Information Object Move
 =======================
 
@@ -32,3 +34,5 @@ be moved.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

@@ -1,3 +1,5 @@
+.. _api-activity-download:
+
 Download Activity REST API
 ==========================
 
@@ -38,3 +40,5 @@ The download activity REST API endpoint provides data about recent downloads.
 
    :query limit: number of downloads to return
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

@@ -1,3 +1,5 @@
+.. _api-aip-detail:
+
 AIP Detail
 ==========
 
@@ -230,3 +232,5 @@ The AIP detail REST API endpoint provides details about a specific AIP.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

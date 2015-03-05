@@ -1,3 +1,5 @@
+.. _api-tree-associations:
+
 Information Object Tree Associations
 ====================================
 
@@ -27,3 +29,5 @@ the associated associated with a specific information object tree.
     []
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

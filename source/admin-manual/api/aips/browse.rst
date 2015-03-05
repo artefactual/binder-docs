@@ -1,3 +1,5 @@
+.. _api-browse-aips:
+
 Browse AIPs
 ===========
 
@@ -264,3 +266,5 @@ added to the system.
    :query limit: number of AIPs to return
    :query skip: number of AIPs to skip (an offset in other words)
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

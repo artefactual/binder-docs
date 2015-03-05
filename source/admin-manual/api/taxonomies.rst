@@ -1,3 +1,5 @@
+.. _api-taxonomy:
+
 Taxonomy REST API
 =================
 
@@ -37,3 +39,5 @@ system.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

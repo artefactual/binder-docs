@@ -1,3 +1,5 @@
+.. _api-actors:
+
 Actor REST API
 ==============
 
@@ -48,3 +50,5 @@ system.
    :query limit: number of actors to return
    :query skip: number of actors to skip (an offset in other words)
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

@@ -1,3 +1,5 @@
+.. _api-ingestion-summary:
+
 Ingestion Summary
 =================
 
@@ -33,3 +35,5 @@ were ingested.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

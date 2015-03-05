@@ -1,3 +1,5 @@
+.. _api-aip-reclassify:
+
 Reclassifiy AIP
 ===============
 
@@ -31,3 +33,5 @@ The AIP reclassifiy REST API endpoint can be used to reclassify an AIP.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

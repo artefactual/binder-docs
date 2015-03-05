@@ -1,3 +1,5 @@
+.. _api-activity-ingestion:
+
 Ingestion Activity REST API
 ===========================
 
@@ -28,3 +30,5 @@ The ingestion activity REST API endpoint provides data about recent ingestions.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

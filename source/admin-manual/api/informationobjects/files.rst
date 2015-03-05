@@ -1,3 +1,5 @@
+.. _api-info-object-files:
+
 Information Object Files
 ========================
 
@@ -28,3 +30,5 @@ files data to be browsed.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

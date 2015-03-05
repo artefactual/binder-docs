@@ -1,3 +1,5 @@
+.. _api-activity:
+
 Activity REST API
 =================
 
@@ -8,3 +10,5 @@ The activity REST API endpoint provides data about recent system activity.
 
    downloads
    ingestion
+
+:ref:`Back to API documentation index <api>`

@@ -1,3 +1,5 @@
+.. _api-filesize-by-coll-yr:
+
 Media File Size by Collection Year
 ==================================
 
@@ -29,3 +31,5 @@ The media file size by collection year REST API endpoint provides stats about TO
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

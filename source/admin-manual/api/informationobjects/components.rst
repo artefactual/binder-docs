@@ -1,3 +1,5 @@
+.. _api-info-object-components:
+
 Information Object Components
 =============================
 
@@ -266,3 +268,5 @@ component data to be browsed.
    :query limit: number of information object components to return
    :query skip: number of information object components to skip (an offset in other words)
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

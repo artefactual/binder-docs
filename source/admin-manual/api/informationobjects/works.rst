@@ -1,3 +1,5 @@
+.. _api-info-object-works:
+
 Information Object Works
 ========================
 
@@ -360,3 +362,5 @@ works data to be browsed.
    :query limit: number of information object works to return
    :query skip: number of information object works to skip (an offset in other words)
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

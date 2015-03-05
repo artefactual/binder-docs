@@ -1,3 +1,5 @@
+.. _api-artwork-by-dept:
+
 Artwork by Department
 =====================
 
@@ -29,3 +31,5 @@ how many artworks are associated with each department.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

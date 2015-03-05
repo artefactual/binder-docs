@@ -1,3 +1,5 @@
+.. _api-info-objects-tree:
+
 Information Objects Tree
 ========================
 
@@ -9,3 +11,5 @@ tree-related data to be accessed.
 
    browse
    associations
+
+:ref:`Back to API documentation index <api>`

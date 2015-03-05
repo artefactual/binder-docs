@@ -1,3 +1,5 @@
+.. _api-info-object-tms:
+
 Information Object TMS Data
 ===========================
 
@@ -28,3 +30,5 @@ TMS data to be browsed.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

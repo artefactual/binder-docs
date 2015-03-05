@@ -1,3 +1,5 @@
+.. _api-info-object-detail:
+
 Information Object Detail
 =========================
 
@@ -83,3 +85,5 @@ and deletion.
     null
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

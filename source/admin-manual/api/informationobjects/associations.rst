@@ -1,3 +1,5 @@
+.. _api-info-object-associations:
+
 Information Object Assocations
 ==============================
 
@@ -87,3 +89,5 @@ assocations.
     null
 
    :statuscode 204: no content
+
+:ref:`Back to API documentation index <api>`

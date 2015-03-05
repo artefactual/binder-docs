@@ -1,3 +1,5 @@
+.. _api-tree-browse:
+
 Information Object Tree
 =======================
 
@@ -30,3 +32,5 @@ hierarchy associated with a specific information object.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

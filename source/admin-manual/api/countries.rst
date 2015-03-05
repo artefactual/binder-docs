@@ -1,3 +1,5 @@
+.. _api-country:
+
 Country REST API
 ================
 
@@ -277,3 +279,5 @@ corresponding country names.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

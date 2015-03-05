@@ -1,3 +1,5 @@
+.. _api-info-object-aips:
+
 Information Object AIPs
 =======================
 
@@ -38,3 +40,5 @@ AIPs data to be browsed.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

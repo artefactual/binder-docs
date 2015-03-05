@@ -1,3 +1,5 @@
+.. _api-aip-files:
+
 AIP Files
 =========
 
@@ -86,3 +88,5 @@ The AIP files REST API endpoint provides details about files in a specific AIP.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

@@ -1,3 +1,5 @@
+.. _api-aips:
+
 AIPs REST API
 =============
 
@@ -14,3 +16,5 @@ reclassified.
    download
    reclassify
    recover
+
+:ref:`Back to API documentation index <api>`

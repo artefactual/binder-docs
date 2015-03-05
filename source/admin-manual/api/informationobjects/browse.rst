@@ -1,3 +1,5 @@
+.. _api-browse-create:
+
 Browse/Create Information Objects
 =================================
 
@@ -111,3 +113,5 @@ created.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`

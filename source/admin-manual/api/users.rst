@@ -1,3 +1,5 @@
+.. _api-users:
+
 User Authentication REST API
 ============================
 
@@ -27,3 +29,5 @@ about the user.
     }
 
    :statuscode 200: no error
+
+:ref:`Back to API documentation index <api>`
