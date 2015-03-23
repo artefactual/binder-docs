@@ -18,6 +18,8 @@ Below you'll find documentation for and example usages of the available endpoint
    aips/index
    countries
    informationobjects/index
+   file/index
+   processhistory/index
    summary/index
    taxonomies
    tms
