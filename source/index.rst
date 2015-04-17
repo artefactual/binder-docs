@@ -11,10 +11,16 @@ Binder documentation
    /user-manual/index
    /admin-manual/index
 
-Binder is an open source digital repository designed to meet the needs and
-complex digital preservation requirements of cultural heritage institutions.
-Binder was created by `Artefactual Systems <http://www.artefactual.com/>`__ and
-the `Museum of Modern Art <http://www.moma.org/>`__.
+.. image:: /user-manual/overview/images/binder_logo.png
+   :align: center
+   :width: 30%
+   :alt: Binder logo
+
+Binder is an open source digital repository management application designed to
+meet the needs and complex digital preservation requirements of cultural
+heritage institutions. Binder was created by
+`Artefactual Systems <http://www.artefactual.com/>`__ and the
+`Museum of Modern Art <http://www.moma.org/>`__.
 
 Binder aims to facilitate digital collections care, management, and
 preservation for time-based media and born-digital works, and is built
@@ -23,6 +29,11 @@ from integrating functionality of the Archivematica_ and AtoM_ projects.
 A presentation on Binder's functionality, given at AMIA 2014, can be viewed
 `online <https://www.youtube.com/watch?v=HPebm5nh83o>`__ (note that Binder
 was initially called the DRMC).
+
+Slides from a presentation at the Code4LibBC 2014 conference can also be viewed
+at:
+
+* http://www.slideshare.net/accesstomemory/introducing-the-drmc
 
 .. _Artefactual: http://www.artefactual.com/
 .. _AtoM: https://www.accesstomemory.org/
@@ -42,7 +53,7 @@ Binder via the user interface.
 Overview
 --------
 
-Find out what Binder is, what it can do, how it's being used, and where we hope
+Find out what Binder is, what it can do, how it's being used, and how we hope
 to see the project evolve.
 
 * :ref:`What is Binder? <intro>`
@@ -63,6 +74,6 @@ administering the app via the command-line interface.
 API reference
 -------------
 
-API reference blurb.
+Documentation of the avaiable REST endpoints used by Binder's HTTP API.
 
 * :doc:`API reference <admin-manual/api/index>`
