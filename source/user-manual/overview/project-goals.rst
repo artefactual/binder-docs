@@ -9,7 +9,7 @@ Project goals: Binder's long-term vision
 .. _Archivematica: https://www.archivematica.org/
 .. _MoMA: http://www.moma.org/
 .. _TMS: http://www.gallerysystems.com/tms
-.. _CollectionSpace:
+.. _CollectionSpace: http://www.collectionspace.org/
 .. _Hydra: http://projecthydra.org/
 .. _Islandora: http://islandora.ca/
 .. _BitCurator: http://www.bitcurator.net/
