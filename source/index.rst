@@ -40,6 +40,11 @@ at:
 .. _Archivematica: https://www.archivematica.org/
 .. _MoMA: http://www.moma.org/
 
+.. SEEALSO::
+
+   * `Binder on Github <https://github.com/artefactual/binder>`__
+   * `Binder User Forum <https://groups.google.com/forum/#!forum/binder-repository>`__
+
 .. _user-manual:
 
 User manual
@@ -58,6 +63,7 @@ to see the project evolve.
 
 * :ref:`What is Binder? <intro>`
 * :ref:`Technical overview <tech-overview>`
+* :ref:`project-status`
 * :ref:`Project goals: Binder's long-term vision <project-goals>`
 * :ref:`binder-moma`
 
@@ -76,4 +82,4 @@ API reference
 
 Documentation of the avaiable REST endpoints used by Binder's HTTP API.
 
-* :doc:`API reference <admin-manual/api/index>`
+* :ref:`API reference <api>`

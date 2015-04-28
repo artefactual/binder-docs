@@ -18,6 +18,7 @@ links to each chapter's main sections.
 .. toctree::
 
    overview/intro
+   overview/project-status
    overview/project-goals
    overview/tech-overview
    overview/binder-moma

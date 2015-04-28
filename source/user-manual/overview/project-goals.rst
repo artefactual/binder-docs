@@ -21,7 +21,13 @@ informing digital preservation policy and practice.
 
 We hope to see the Binder project grow, and are interested in partnering with
 other cultural heritage institutions looking to solve similar challenges.
-Below are some of the priority goals we see for the project as it develops:
+Below are some of the priority goals we see for the project as it develops.
+
+.. IMPORTANT::
+
+   Please review the :ref:`project-status` first - the below goals are proposals
+   for Binder's long-term development. Our immediate goals are described on the
+   previous page.
 
 .. _goals-generalization:
 
