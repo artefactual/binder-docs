@@ -16,6 +16,11 @@ Binder documentation
    :width: 30%
    :alt: Binder logo
 
+.. _Artefactual: http://www.artefactual.com/
+.. _AtoM: https://www.accesstomemory.org/
+.. _Archivematica: https://www.archivematica.org/
+.. _MoMA: http://www.moma.org/
+
 Binder is an open source digital repository management application designed to
 meet the needs and complex digital preservation requirements of cultural
 heritage institutions. Binder was created by
@@ -26,19 +31,27 @@ Binder aims to facilitate digital collections care, management, and
 preservation for time-based media and born-digital works, and is built
 from integrating functionality of the Archivematica_ and AtoM_ projects.
 
-A presentation on Binder's functionality, given at AMIA 2014, can be viewed
-`online <https://www.youtube.com/watch?v=HPebm5nh83o>`__ (note that Binder
-was initially called the DRMC).
+.. IMPORTANT::
+
+   Binder is still under development. Please see the :ref:`project-status` page
+   for more information.
+
+**Related resources**
+
+MoMA_ has created a screencast that offers an overview of Binder's functionality,
+which can be seen on YouTube:
+
+* https://youtu.be/TelwvLkt-84
+
+A presentation on Binder's functionality, given at AMIA 2014, can also be viewed
+online (note that Binder was initially called the DRMC):
+
+* https://youtu.be/HPebm5nh83o
 
 Slides from a presentation at the Code4LibBC 2014 conference can also be viewed
 at:
 
 * http://www.slideshare.net/accesstomemory/introducing-the-drmc
-
-.. _Artefactual: http://www.artefactual.com/
-.. _AtoM: https://www.accesstomemory.org/
-.. _Archivematica: https://www.archivematica.org/
-.. _MoMA: http://www.moma.org/
 
 .. SEEALSO::
 
