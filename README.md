@@ -1,5 +1,11 @@
 # Binder documentation
 
+## Deprecation notice
+
+Please note that the Binder project has been formally deprecated, and is no longer being developed or maintained. 
+
+## Set up
+
 Install what's needed to build documentation::
 
 ```
